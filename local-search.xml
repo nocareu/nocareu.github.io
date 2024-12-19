@@ -34,7 +34,7 @@
     <link href="/2024/08/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <url>/2024/08/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[<h1>我的第一篇博客</h1><h1 id="测试一下说这是怎么回事"><a href="#测试一下说这是怎么回事" class="headerlink" title="测试一下说这是怎么回事"></a>测试一下说这是怎么回事</h1><div class="note note-info">            <p>便签</p>          </div>    <div class="fold">      <div class="fold-title fold-info collapsed" data-toggle="collapse" href="#collapse-43680210" role="button" aria-expanded="false" aria-controls="collapse-43680210">        <div class="fold-arrow">▶</div>undefined      </div>      <div class="fold-collapse collapse" id="collapse-43680210">        <div class="fold-content">          <p>折叠块</p>        </div>      </div>    </div>]]></content>
+    <content type="html"><![CDATA[<h1>我的第一篇博客</h1><h1 id="测试一下说这是怎么回事"><a href="#测试一下说这是怎么回事" class="headerlink" title="测试一下说这是怎么回事"></a>测试一下说这是怎么回事</h1><blockquote><p>You should only use ImportRow to add rows from another DataTable. Per MSDN, rows created with DataTable.NewRow should be added with DataTable.Rows.Add.  </p></blockquote><div class="note note-info">            <p>便签</p>          </div>    <div class="fold">      <div class="fold-title fold-info collapsed" data-toggle="collapse" href="#collapse-43680210" role="button" aria-expanded="false" aria-controls="collapse-43680210">        <div class="fold-arrow">▶</div>undefined      </div>      <div class="fold-collapse collapse" id="collapse-43680210">        <div class="fold-content">          <p>折叠块</p>        </div>      </div>    </div>]]></content>
     
     
     
